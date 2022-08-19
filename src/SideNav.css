@@ -1,0 +1,56 @@
+.sideNav {
+    width: 200px;
+    font-size: small;
+    box-shadow: 2px 0px 1px 1px whitesmoke;
+}
+
+.img1 {
+    width: 180px;
+}
+
+.sidenav_logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 200px;
+    height: auto;
+
+}
+
+.sideNav_logo > .img1 {
+    margin: 10px;
+
+}
+
+
+.sidenav_search {
+    margin: 2em 0;
+}
+
+.sidenav_search > input {
+    padding: 8px 10px;
+    border: 1px solid whitesmoke;
+    box-shadow: 0px 1px 0px 1px whitesmoke;
+    border-radius: 0px 1px 0px 1px;
+    position: relative;
+    outline-width: 0;
+}
+
+.sidenav_search {
+    right: 10px;
+    position: relative;
+}
+
+.sidenav a {
+    text-decoration: none;
+    color: black;
+}
+
+.sidenav_link {
+    padding: 10px 13px;
+}
+
+.sidenav hr {
+    margin: 2em 0;
+    border: 1px solid whitesmoke;
+}

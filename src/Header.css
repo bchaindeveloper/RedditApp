@@ -1,0 +1,52 @@
+.header {
+    font-size: small;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0.5em 0 2.5em;
+}
+
+.header a {
+    text-decoration: none;
+}
+
+.header_left ul {
+    display: flex;
+    align-items: center;
+}
+
+.header_left li {
+    padding: 10px;
+    margin: 10px;
+    color: #fd4500;
+}
+.header_left a.active{
+    color: #fd4500;
+    border-bottom: 2px solid #fd4500;
+}
+
+.header_right {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.header_right > * {
+    margin-left: 10px;
+}
+
+.header_right > i {
+    font-size: medium;
+    color: grey;
+}
+
+.header_right > .header_right span {
+    margin-right: 10px;
+}
+
+.avatar {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-left: 80%;
+}

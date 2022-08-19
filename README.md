@@ -1,3 +1,7 @@
+# Porfolio Project: Reddit App on CodeCademy
+
+________________________________________
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
