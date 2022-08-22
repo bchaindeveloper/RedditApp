@@ -6,10 +6,10 @@ export default function Header() {
             <div className='header_left'>
                 <ul>
                     <li><a href='/r/popular' className='active'>Popular</a></li>
-                    <li><a href='/r/hot'>Hot</a></li>
-                    <li><a href='/r/rising'>Rising</a></li>
-                    <li><a href='/r/controversial'>Controversial</a></li>
-                    <li><a href='/r/gilded'>Gilded</a></li>
+                    <li><a href='/r/hot' className='active1'>Hot</a></li>
+                    <li><a href='/r/rising' className='active2'>Rising</a></li>
+                    <li><a href='/r/controversial' className='active3'>Controversial</a></li>
+                    <li><a href='/r/gilded' className='active4'>Gilded</a></li>
                 </ul>
             </div>
             <div className='header_right'>
