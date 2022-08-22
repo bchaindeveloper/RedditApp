@@ -2,5 +2,5 @@
     flex: 1;
     background-color: whitesmoke;
     padding: 10px 40px;
-    
+    min-width: 50px;
 }

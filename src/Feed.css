@@ -1,0 +1,102 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Courier New', Courier, monospace;
+  min-width: 50px;
+}
+
+header {
+  background-color: purple;
+  background-image: linear-gradient(to left, green, purple);
+  box-shadow: 0px 3px 6px black;
+  padding: 15px;
+  min-width: 50px;
+}
+
+p {
+  min-width: 50px;
+}
+
+header .subreddit_input {
+  display: inline-block;
+  color: #F3F3F3;
+  font-size: 42px;
+  font-weight: 600;
+  font-style: italic;
+  text-transform: uppercase;
+  background: none;
+  border: none;
+  outline: none;
+  appearance: none;
+}
+
+
+.posttitle {
+  font-size: xx-large;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.selftext {
+  font-size: large;
+  color: black;
+  margin-bottom: 10px;
+  min-width: 50px;
+}
+
+.upvote {
+  color: black;
+  display: inline-flex;
+  margin-right: 25px;
+}
+
+.downvote {
+  color: black;
+  display: inline-flex;
+  margin-right: 25px;
+}
+
+.author {
+  color: black;
+  margin-top: 5px;
+  display: inline-flex;
+  margin-right: 25px;
+}
+
+.subreddit {
+  color: black;
+  display: inline;
+}
+
+
+
+.articles article {
+  padding: 30px 15px;
+  background-color: whitesmoke;
+  min-width: 50px;
+}
+
+.articles article a {
+  text-decoration: none;
+}
+
+.articles article h3 {
+  color: #212121;
+}
+
+.articles article:nth-child(2n) {
+  background-color: #F3F3F3;
+}
+
+.articles article:hover {
+  background-image: linear-gradient(to right, green, purple);
+}
+
+.articles article:hover h3 {
+  color: lavender;
+}
+
+.articles article:hover p {
+  color: white;
+}
