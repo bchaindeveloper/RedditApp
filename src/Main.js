@@ -1,15 +1,13 @@
-import React from "react"
-import Header from './Header'
 import './Main.css';
-import Posts from './Posts.js';
+import Feed from './Feed';
+import React, {useState, useEffect, Children} from 'react';
+import Article from './components/Article';
+
 
 export default function Main() {
     return (
         <div className="main">
-            <Header>
-            </Header>
-            <Posts></Posts>
-
+            <Feed />
         </div>
     )
 }
