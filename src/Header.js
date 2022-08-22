@@ -16,7 +16,7 @@ export default function Header() {
                 <i className='fas fa-bell'></i>
                 <img className="avatar" src="/images/Avatar.png"/>
                 <div className='header_user'>
-                    <span>Amir Vhora</span>
+                    <span>BChainDeveloper</span>
                     <i className='fas fa-caret-down'></i>
 
                 </div>

@@ -2,30 +2,15 @@ import React from "react";
 import './SideNav.css';
 export default function SideNav() {
     const menus = [
-        { to: '/r/popular', text: "Popular"},
-        { to: '/r/all', text: "All"},
-        { to: '/r/random', text: "Random"}
     ]
     const subreddits = [
-        "askreddit",
-        "worldnews",
-        "videos",
-        "funny",
-        "todayilearned",
-        "pics",
-        "gaming",
-        "movies",
-        "news",
-        "gits",
-        "aww",
-        "mildlyinteresting",
-        "showerthoughts",
-        "television",
-        "joes",
-        "science",
-        "soccer",
-        "internetisbeautiful",
-        "dataisbeautiful"
+        <a href="https://www.reddit.com/search/?q=blockchain" alt=''>Blockchain</a>,
+        <a href="https://www.reddit.com/search/?q=crypto" alt=''>Crypto</a>,
+        <a href="https://www.reddit.com/search/?q=web%203" alt=''>Web3</a>,
+        <a href="https://www.reddit.com/search/?q=bitcoin" alt=''>Bitcoin</a>,
+        <a href="https://www.reddit.com/search/?q=ethereum" alt=''>Ethereum</a>,
+        <a href="https://www.reddit.com/search/?q=trading" alt=''>Trading</a>,
+
     ]
     return (
         <div className="sidenav">

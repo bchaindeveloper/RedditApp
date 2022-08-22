@@ -1,4 +1,11 @@
 # Porfolio Project: Reddit App on CodeCademy
+Reddit look alike 
+
+Here I made a copy cat Reddit interface.
+
+I used this tutorial to help me build this project.
+https://www.youtube.com/watch?v=8rSH7iWYluQ
+https://github.com/ddsuhaimiyt
 
 ________________________________________
 
