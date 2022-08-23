@@ -1,5 +1,4 @@
 # Porfolio Project: Reddit App on CodeCademy
-Reddit look alike 
 
 My Reddit feed build.
 
