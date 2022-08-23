@@ -1,10 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
 import Main from './Main';
-<<<<<<< HEAD
-import Header from './Header';
-=======
->>>>>>> redditfeed
+
+
 import React, {useState, useEffect, Children} from 'react';
 
 
