@@ -2,9 +2,6 @@
 
 Reddit look alike- Here I made a copy cat Reddit interface.
 
-
-My Reddit feed build.
-
 ## Screenshot
 
 ![Screenshot](public/images/Screenshot.png)
@@ -13,7 +10,6 @@ My Reddit feed build.
 ## Built with:
 
 React.JS
-
 
 ## How to use:
 
