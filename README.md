@@ -7,7 +7,7 @@ My Reddit feed build.
 
 ## Screenshot
 
-![Screenshot](my-app/public/images/Screenshot.png)
+![Screenshot](public/images/Screenshot.png)
 
 
 ## Built with:
